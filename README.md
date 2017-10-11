@@ -6,3 +6,9 @@ B.T. (founder/workhorse) finished his school program recently and has been compl
 
 ## Projects
 TrainABA books were released in 2015 December 31. He is building Moodle courses on a hosted platform as of October 11, 2017, having stepped into release v1.1.0 of a Segments course for supervisors. B.T. knows how to use these materials, but most people do not. This documentation will serve as a bridge to bring all the TrainABA goodies together with documentation and instructions. This includes the books, LMS courses, SAFMED app, growing video library, audio collection, many hidden things that have not been released yet, and guidelines to tracking supervision using ubiquitous tools. 
+
+If we do this right, everybody can use this stuff and we can share with each other. Licenses will protect the work, keeping creative material intact/credited while generalizable knowledge will remain free.
+
+If we do this wrong, people will think TrainABA is three paperbacks and some seminars B.T. ran with his cat in 2014.
+
+We should do it right.
