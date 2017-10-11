@@ -10,5 +10,3 @@ TrainABA books were released in 2015 December 31. He is building Moodle courses 
 If we do this right, everybody can use this stuff and we can share with each other. Licenses will protect the work, keeping creative material intact/credited while generalizable knowledge will remain free.
 
 If we do this wrong, people will think TrainABA is three paperbacks and some seminars B.T. ran with his cat in 2014.
-
-We should do it right.
